@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <!--  Light base activity theme -->
+    <style name="ActivityTheme.Primary.Base.Light"
+        parent="Theme.AppCompat.NoActionBar">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">#424242</item>
+        <item name="colorPrimaryDark">#1b1b1b</item>
+        <item name="primaryTextColor">#F4F4F6</item>
+        <item name="secondaryTextColor">#96F4F4F6</item>
+        <item name="frontColor">#1b1b1b</item>
+        <item name="backgroundColor">#FFFF</item>
+      <!--  <item name="iconPlaceholder">@drawable/i_light_plholder</item>
+
+    <color name="colorLight">#fffff7</color>
+    <color name="colorAccent">#6d6d6d</color>
+    <color name="colorMedium">#424242</color>
+    <color name="colorMain">#1b1b1b</color>
+
+    -->
+    </style>
+
+</resources>
